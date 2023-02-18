@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Albaraa Bashmmakh 🇸🇦</h1>
-<h3 align="center">A passionate JUNIOR IT student from Saudi Arabia.</h3>
+<h1 align="center">Hi 👋, I'm Albaraa Bashmmakh</h1>
+<h3 align="center">A passionate JUNIOR IT student from Saudi Arabia 🇸🇦.</h3>
 
 - 🌱 I'm currently studying **at FCIT as an IT student.**
 
