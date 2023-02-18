@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Albaraa Bashmmakh</h1>
 <h3 align="center">A passionate IT student from Saudi Arabia 🇸🇦.</h3>
 
-- 🌱 I'm currently studying **at FCIT as an IT student.**
-
 - 👀 I’m interested in **Networking and CyberSecurity.**
 
 <h3 align="left">Connect with me:</h3>
