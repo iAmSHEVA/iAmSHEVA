@@ -2,6 +2,7 @@
 <h3 align="center">A passionate IT student from Saudi Arabia 🇸🇦.</h3>
 
 - 👀 I’m interested in **Networking and CyberSecurity.**
+- 🌱 I’m currently learning **Security+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
